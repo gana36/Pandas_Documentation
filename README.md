@@ -10,5 +10,5 @@ This documentation is meant to give
 3) Functionality of the methods.
 </list>
 I used the examples from the official Pandas Documentation and a few of my own examples. <br>
-Reference to official <a href='https://pandas.pydata.org/docs/getting_started/index.html'>Pandas</a> Documentation
+Reference to official <a href='https://pandas.pydata.org/docs/getting_started/index.html'>Pandas</a> Documentation<br>
 <a href='https://realpython.com/pandas-read-write-files/'>Image reference 
