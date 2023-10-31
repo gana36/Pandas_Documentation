@@ -1,7 +1,7 @@
 # PandaS_Documentation
 
-<img src='![pandas](https://github.com/gana36/Pandas_Documentation/assets/71372490/8ad61a5d-bc66-47ef-8d3c-7515c00b79bb)
-'>
+![pandas](https://github.com/gana36/Pandas_Documentation/assets/71372490/fe0dfb90-508c-4372-8161-b40f5704c4f0)
+
 
 This documentation is meant to give 
 <list>
